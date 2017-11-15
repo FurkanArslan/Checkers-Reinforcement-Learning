@@ -1,0 +1,6 @@
+player.py
+board.py (my version. I have made some changes)
+
+- The value iteration function start with init function. So initialization of Value_Iteration_AI can take too long. 
+- The only required argument of Value_Iteration_AI is opponent model.
+- After initialization, no need to call value iteration function again
